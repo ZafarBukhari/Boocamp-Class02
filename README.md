@@ -1,6 +1,6 @@
 # Boocamp-Class02
 This repository contains data and practices completed in Bootcamp Class-02.
-# Agenda of the Repository
+## Agenda of the Repository
   - Create a Repository
   - Create a webpage structure
   - Create a React Based Web-app
