@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      <h1>Syed Zafar Abbas Bukhary</h1>
      <h2>PIAIC Islamabad Batch-3 (Q2)</h2>
+     <p>Developer is an onsite student of PIAIC Islamabad, Batch-3 and undergoing course of studies of Quarter-2 through online zoom sessions delivered by Sir Muhammad Qasim.</p>
     </div>
   );
 }
