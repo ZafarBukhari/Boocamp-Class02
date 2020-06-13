@@ -4,6 +4,10 @@
 .App {
   text-align: center;  
 }
+#red {
+  color: red;
+  font-size: 200%;
+}
 
 .App-logo {
   height: 40vmin;
