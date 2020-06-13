@@ -1,12 +1,14 @@
 import React from 'react';
+import StudentInfo from './StdInfo';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Assignment-2</h1>
-     <h2>Syed Zafar Abbas Bukhary</h2>
-     <h3>PIAIC Islamabad Batch-3 (Q2)</h3>     
+      <StudentInfo stdName="Syed Zafar Abbas Bukhari"
+                   assignNo="1"
+                   stdBatch="3"
+                   stdCenter="Islamabad" />
     </div>
   );
 }
