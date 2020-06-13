@@ -8,7 +8,7 @@ function App() {
     <div>
         <div className="App">
           <StudentInfo stdName="Syed Zafar Abbas Bukhari"
-                      assignNo="1"
+                      assignNo="2"
                       stdBatch="3"
                       stdCenter="Islamabad" />
         </div>
