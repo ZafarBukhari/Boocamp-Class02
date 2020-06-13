@@ -4,9 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>Syed Zafar Abbas Bukhary</h1>
-     <h2>PIAIC Islamabad Batch-3 (Q2)</h2>
-     <h2>Onsite student of PIAIC Islamabad, Batch-3, Quarter-2 </h2>
+      <h1>Assignment-2</h1>
+     <h2>Syed Zafar Abbas Bukhary</h2>
+     <h3>PIAIC Islamabad Batch-3 (Q2)</h3>     
     </div>
   );
 }
